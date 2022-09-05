@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e8f4481.css",
+    "main.js": "/static/js/main.583bda12.js",
+    "static/media/mission.jpg": "/static/media/mission.2624673b3633f72a463c.jpg",
+    "static/media/service.jpg": "/static/media/service.707858069f30fe53d95d.jpg",
+    "static/media/about.jpg": "/static/media/about.3142a0d41934f8eda8bb.jpg",
+    "static/media/vision.jpg": "/static/media/vision.de5659898d3bfc5eb8ea.jpg",
+    "static/media/Survey.jpg": "/static/media/Survey.617ee47b95605269203d.jpg",
+    "static/media/Assistance.jpg": "/static/media/Assistance.7e16bc13c6e9bbca71a8.jpg",
+    "static/media/home.jpg": "/static/media/home.eb2b31f8cb4b6b6a81a7.jpg",
+    "static/media/cleaning.jpg": "/static/media/cleaning.96e595c83c1578cbd33b.jpg",
+    "static/media/1.jpg": "/static/media/1.59ba59b1a4eff9cf2d4c.jpg",
+    "static/media/Redren.png": "/static/media/Redren.bf094ba473de3f90733c.png",
+    "static/media/logo.png": "/static/media/logo.ac2205076d77158f826c.png",
+    "static/media/adani.png": "/static/media/adani.0d15a57812ac64b9df10.png",
+    "static/media/Renewsys.png": "/static/media/Renewsys.4a3b4f0d38aed52fbf60.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.5e8f4481.css.map": "/static/css/main.5e8f4481.css.map",
+    "main.583bda12.js.map": "/static/js/main.583bda12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e8f4481.css",
+    "static/js/main.583bda12.js"
+  ]
+}
