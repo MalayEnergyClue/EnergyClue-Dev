@@ -1,0 +1,241 @@
+{
+    "HEADER": {
+        "LOGOTEXT": "ENERGYCLUE",
+        "NAVITEMS": {
+            "ITEM1": "Home",
+            "ITEM2": "Services",
+            "ITEM3": "Contact",
+            "ITEM4": "Offers",
+            "ITEM5": "FAQs"
+        }
+    },
+    "HOME": {
+        "TITLE": "EnergyClue",
+        "SUBTITLE": "To get solar in your area, turn to energyclue.com - one of the leading providers of solar in #india",
+        "MENUITEMS": {
+            "FIRSTITEM": {
+                "HEADING": "",
+                "TEXT1": "Beautiful Solar",
+                "TEXT2": "Without Compromise"
+            },
+            "SECONDITEM": {
+                "HEADING": "25-Year",
+                "TEXT1": "Title",
+                "TEXT2": "Warranty"
+            },
+            "THIRDITEM": {
+                "HEADING": "24*7",
+                "TEXT1": "Customer",
+                "TEXT2": "Assistance"
+            }
+        }
+    },
+    "ABOUT": {
+        "ABSTEXT": "About",
+        "PARATEXT": "EnergyClue is a pioneer in the design, installation, and service of renewable energy systems such as solar water pumps and controllers, on-grid inverters, and solar rooftop panels. We have a strong track record of credibility and expertise.",
+        "PARATEXT1": "We work with India's leading integrated solar player(vendors), which excels across the solar value chain, right from the manufacturing of cell/modules and solar products to executing rooftop and utility-scale solar projects.Our team comprises experts and professionals, who are trained in this field and have years of experience in working in the power sector.",
+        "PARATEXT2": "Clients' experiences have been such that we have become their first choice as an energy solution provider, allowing us to better serve them.",
+        "SUBHEADING": "Know more about us",
+        "HEADING": "We are EnergyClue"
+    },
+    "SERVICE": {
+        "ABSTEXT": "Service",
+        "SERVICECONTAINER": {
+            "HEADING":"We are Providing Service",
+            "PARATEXT":"Install Solar Roof and power your home with a fully integrated solar and storage system. With a seamless design, each tile looks great up-close or from the street, complementing your home’s natural aesthetic styling.",
+            "CARD1": {
+                "CARDHEADING": "Free Site Survey",
+                "CARDPARA": "EnergyClue provides free site surveys in a cost-saving way. We send our professional..."
+            },
+            "CARD2": {
+                "CARDHEADING": "Cleaning Service",
+                "CARDPARA": "EnergyClue is the easiest and most convenient way to keep your solar panels..."
+            },
+            "CARD3": {
+                "CARDHEADING": "Operations & Management",
+                "CARDPARA": "Solar power is the future. You don't need to be a pro to install it or manage it - our..."
+            },
+            "CARD4": {
+                "CARDHEADING": "24*7 Customer Assistance",
+                "CARDPARA": "Helping customers get up and running with their solar panel installation..."
+            }
+        }
+    },
+    "VISION": {
+        "HEADING":"Our Vision",
+        "PARATEXT":"At EnergyClue, we believe in providing cost-effective, higher-quality, and more efficient sustainable energy products, thereby enabling the future of clean and green energy.",
+        "PARATEXT1":"EnergyClue  is trying to innovate the way people get solar systems installed and related services. While we’ve seen a lot of innovation in the solar industry, it’s not enough. We need to do more than just innovate, we need to lead and enhance the way people get their solar systems installed and related services. We need to make a solar system installation process as seamless as possible for our customers so they can get back to doing what they love without having to worry about how they are going to pay for their electricity bill each month..That’s why we are excited to integrate our solar consumer platform into one seamless experience that will help customers lessen their energy costs. This is a big step forward in the evolution of solar and will enable us to make solar affordable for everyone.",
+        "PARATEXT2":"Performing this We will encourage more people to join our vision of sustainable energy solutions, thereby reducing carbon emissions and opening the way for sustainable energy that will enhance the lives of OUR FAMILY (HUMANS) now and in the future.",
+        "SUBHEADING": "Know more about our vision"
+    },
+    "MISSION": {
+        "HEADING":"Our Mission",
+        "PARATEXT":"Our mission is to build a platform that can deliver high-quality solar products and/or services to customers' homes.",
+        "PARATEXT1":"We know that there are many people who want to go solar but can't because they don't know where to start or they can't afford it.",
+        "PARATEXT2":"It is our mission to create a platform that will offer superior quality products and services at the customer's convenience. They can compare prices, purchase with confidence, and get their job done quickly. We want to make solar panel installation as accessible and easy as possible. In order to provide the best value to all of our partners and customers, we will collaborate with the largest solar field suppliers (vendors).",
+        "SUBHEADING": "Know more about our mission"
+    },
+    "PARTNERS": {
+        "HEADING": "Our Valuable Partners"
+    },
+    "WHYUS": {
+        "HEADING": "Why Choose Us",
+        "CARD1CONTENT": {
+            "HEADING": "Lowest Price Guaranteed *",
+            "PARATEXT": "EnergyClues solar service is available in both residential and commercial offerings. We offer fast installation, customized solar designs, and professional monitoring. Regardless of the size or scope of your project, EnergyClue can help you find the best option for low-cost energy with a 100% satisfaction guarantee."
+        },
+        "CARD2CONTENT": {
+            "HEADING": "100% satisfaction guarantee",
+            "PARATEXT": "EnergyClue is a solar service provider which offers 100% satisfaction guarantee. Our solar panel installation includes everything necessary to make the process easy, and our team of specialists is on hand to ensure that you get the best possible service."
+        },
+        "CARD3CONTENT": {
+            "HEADING": "One Step Solution",
+            "PARATEXT": "Find the best energy rates in seconds without having to go through the hassle of switching providers. EnergyClue helps make the decision easier by comparing rates from a variety of suppliers and brands."
+        },
+        "CARD4CONTENT": {
+            "HEADING": "3 Month Free cleaning service",
+            "PARATEXT": "3 - Months of Cleaning service for your solar system! You can get your solar system cleaned, oiled, and inspected free of charge by our team to ensure that the highest electricity production is guaranteed. This will also ensure your return on investment and will save you money in the long run."
+        }
+    },
+    "CONTACT": {
+        "HEADING": "Contact"
+    },
+    "TESTIMONIAL": {
+        "HEADING": "Testimonials",
+        "CARD1": {
+            "HEADING":"We are EnergyClue",
+            "PARATEXT" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora dolore et deleniti, repellat, nam pariatur assumenda suscipit perspiciatis voluptate corrupti architecto, voluptates veritatis facere ea nisi consectetur! Debitis rerum molestiae, praesentium ex cum soluta quis deleniti quod deserunt culpa vero porro similique quas commodi totam officia ratione, provident laboriosam eaque?",
+            "SERVICE": "#CLEANING"
+        }
+    },
+    "FOOTER": {
+        "COPYRIGHT": "EnergyClue",
+        "LINKS": {
+            "LINK1": "Home",
+            "LINK2": "Service",
+            "LINK3": "Contact",
+            "LINK4": "FAQ",
+            "LINK5": "Privercy & Policy"
+        }
+    },
+    "SERVICEPAGE": {
+        "SERVICE1": {
+            "HEADING": "Free Site Survey",
+            "PARA": "EnergyClue provides free site surveys in a cost-saving way. We send our professional solar panel Repair & installation specialists to your property. If we find any issues with your roof, we'll provide you with a free quote.",
+            "SUBHEADING":"Know more about us"
+        },
+        "SERVICE2": {
+            "HEADING": "Cleaning Service",
+            "PARA": "EnergyClue is the easiest and most convenient way to keep your solar panels clean, powerful, and efficient. Using advanced equipment, our certified technicians clean your panels by removing the dirt and dust that can damage your solar panels.",
+            "SUBHEADING":"Know more about us"
+        },
+        "SERVICE3": {
+            "HEADING": "Operations & Management",
+            "PARA": "Solar power is the future. You don't need to be a pro to install it or manage it - our team does it for you. EnergyClue is a service enabling solar panel owners to manage their resources. The system makes it easy to take care of operations and maintenance, as well as adding more panels or tracking the performance of your existing ones.Contact us to learn more about energy savings and environmentally-friendly energy solutions!",
+            "SUBHEADING":"Know more about us"
+        },
+        "SERVICE4": {
+            "HEADING": "24*7 Customer Assistance",
+            "PARA": "Helping customers get up and running with their solar panel installation is a headache for most: high costs, long wait times and unreliable customer service. EnergyClue is a 24/7 customer support solution for small and medium-sized solar panel companies that works across all channels, including phone, social media, email and live chat.",
+            "SUBHEADING":"Know more about us"
+        },
+        "FORMHEADING": "Book Your Service",
+        "FORMLABEL": {
+            "FIRSTNAME": "First Name",
+            "LASTNAME": "Last Name",
+            "EMAIL": "Email Address",
+            "CONTACTNO": "Contact Number",
+            "CONTACTNO2": "Whatsapp Number",
+            "ADDRESS": "Address(Location)",
+            "STARTDATE": "Start Date",
+            "ENDDATE": "End Date",
+            "SELECT": "Select Service Months",
+            "SELECT_DURATION": "Select Service Frequency",
+            "SELECTTYPE": "Select Service Type",
+            "MESSAGE": "Enter Message",
+            "SELECTDATE": "Select Date",
+            "SELECTSOLARCAPACITY": "Select Solar Capacity",
+            "CALCULATEDPRICE": "Calculated Price"
+        },
+        "PLACEHOLDERS": {
+            "FIRSTNAME": "First Name",
+            "LASTNAME": "Last Name",
+            "EMAIL": "Email Address",
+            "CONTACTNO": "Contact Number",
+            "CONTACTNO2": "Whatsapp Number",
+            "ADDRESS": "Address(Location)",
+            "STARTDATE": "Start Date",
+            "ENDDATE": "End Date",
+            "SELECT": "Select",
+            "SELECTTYPE": "Select Service Type",
+            "MESSAGE": "Enter your message here",
+            "SELECTDATE": "Select Date",
+            "SELECTSOLARCAPACITY": "Select Solar Capacity",
+            "CALCULATEDPRICE": "Calculated Price"
+        }
+    },
+    "FAQPAGE": {
+        "HEADING": "FAQs",
+        "FAQs": {
+            "FAQ1": {
+                "HEADING": "Why do we connect with vendors through EnergyClue, when they are also connecting us to local vendors?",
+                "PARA": "We at energy clue always thrive to provide you only best and high quality vendors so you do not have to do any research for the vendors background. Not only that but we are providing you multiple quotations with only one site survey so you do not have to call multiple vendors for site survey and waste your valuable time. Save time, save money. (Please come up with a unique slogan like this, this is just an example)."
+            },
+            "FAQ2": {
+                "HEADING": "What if a vendor does not give me a proper response after making a deal or for after sales issues?",
+                "PARA": "We at energy clue always thrive to provide you only best and high quality vendors so you do not have to do any research for the vendors background. Not only that but we are providing you multiple quotations with only one site survey so you do not have to call multiple vendors for site survey and waste your valuable time. Save time, save money. (Please come up with a unique slogan like this, this is just an example)."
+            },
+            "FAQ3": {
+                "HEADING": "What if a vendor does not give me a proper response after making a deal or for after sales issues?",
+                "PARA": "We at energy clue always thrive to provide you only best and high quality vendors so you do not have to do any research for the vendors background. Not only that but we are providing you multiple quotations with only one site survey so you do not have to call multiple vendors for site survey and waste your valuable time. Save time, save money. (Please come up with a unique slogan like this, this is just an example)."
+            }
+        }
+    },
+    "CONTACTPAGE": {
+        "HEADING": "Get in Touch",
+        "LABEL": {
+            "FIRSTNAME": "First Name",
+            "LASTNAME":"Last Name",
+            "EMAIL":"Email Address",
+            "CONTACT1": "Mobile number",
+            "MESSAGE":"Enter Message"
+        },
+        "PLACEHOLDER": {
+            "FIRSTNAME":"First Name",
+            "LASTNAME":"Last Name",
+            "EMAIL":"Email Address",
+            "CONTACT1": "Mobile number",
+            "MESSAGE":"Enter Message"
+        }
+    },
+    "GETQUOTE": {
+        "HEADING": "Get Quote",
+        "PLACEHOLDER": {
+            "FIRSTNAME":"Full Name",
+            "CONTACTNO":"Contact Number",
+            "EMAIL":"Email Address",
+            "ADDRESS": "Address(Location)",
+            "PROPERTY": "Type of Property",
+            "FREQUENCY": "Select Frequency",
+            "DATE": "Select Date"
+        },
+        "LABEL": {
+            "FIRSTNAME":"Full Name",
+            "CONTACTNO":"Contact Number",
+            "EMAIL":"Email Address",
+            "ADDRESS": "Address(Location)",
+            "PROPERTY": "Type of Property",
+            "FREQUENCY": "Select Frequency",
+            "DATE": "Select Date"
+        }
+    },
+    "BUTTON": {
+        "GETQUOTE":"Get Quote",
+        "SERVICE": "Services",
+        "CONTACT": "Get in Touch",
+        "SERVICEBTN": "Go to Service",
+        "BOOKSERVICE": "Book Service",
+        "SUBMIT": "Submit",
+        "KNOWMORE": "Know more..."
+    }
+}
